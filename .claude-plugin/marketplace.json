@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "canonry-human-communication",
+  "description": "Canonry skill for clear, evidence-backed agent communication with humans and downstream agents.",
+  "owner": {
+    "name": "Canonry"
+  },
+  "plugins": [
+    {
+      "name": "human-communication",
+      "source": "./",
+      "displayName": "Human Communication",
+      "description": "Communicate, explain, summarize work, give status updates, surface blockers, and write handoffs clearly for humans and downstream agents.",
+      "author": {
+        "name": "Canonry"
+      },
+      "homepage": "https://github.com/Canonry/human-communication",
+      "repository": "https://github.com/Canonry/human-communication",
+      "license": "MIT",
+      "keywords": [
+        "agent-skill",
+        "communication",
+        "summarization",
+        "handoffs",
+        "status-updates"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
