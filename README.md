@@ -1,4 +1,4 @@
-# human-communication
+# agent-human-communication
 
 An open-source [Agent Skill](https://agentskills.io) by [Canonry](https://canonry.ai) that teaches AI coding agents how to communicate, summarize completed work, give honest ETA updates, surface blockers, and write zero-rediscovery handoffs for humans and downstream agents.
 
